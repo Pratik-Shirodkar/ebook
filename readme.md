@@ -21,10 +21,10 @@
 1. [算法导论（中文第2版）](https://github.com/onestraw/ebook/blob/master/02_algorithm/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 2. [算法心得：高效算法的奥秘（中文第2版）](https://github.com/onestraw/ebook/blob/master/02_algorithm/%E7%AE%97%E6%B3%95%E5%BF%83%E5%BE%97%EF%BC%9A%E9%AB%98%E6%95%88%E7%AE%97%E6%B3%95%E7%9A%84%E5%A5%A5%E7%A7%98%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 3. [数据结构与算法分析——C语言描述（中文第2版）](https://github.com/onestraw/ebook/blob/master/02_algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E2%80%94C%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
-4. [Data Structures and Algorithm Analysis in C](https://github.com/onestraw/ebook/blob/master/02_algorithm/Data_Structures_and_Algorithm_Analysis_in_C.pdf)
-5. [Algorithms on Strings, Trees and Sequences](https://github.com/onestraw/ebook/blob/master/02_algorithm/Algorithms_on_String_Trees_and_Sequences-libre.pdf)
-6. [The Algorithm Design Manual(2nd Edition)](https://github.com/onestraw/ebook/blob/master/02_algorithm/The%20Algorithm%20Design%20Manual.pdf)
-7. [Hacker's Delight(2nd Edition)](https://github.com/onestraw/ebook/blob/master/02_algorithm/Hacker%27s%20Delight%202nd%20Edition.pdf)
+4. [Data Structures and Algorithm Analysis in C](https://www.pdfdrive.com/data-structures-and-algorithm-analysis-in-c-e5011786.html)
+5. [Algorithms on Strings, Trees and Sequences](https://www.pdfdrive.com/algorithms-on-strings-trees-and-sequences-computer-science-and-computational-biology-e158512397.html)
+6. [The Algorithm Design Manual(2nd Edition)](https://www.pdfdrive.com/the-algorithm-design-manual-2nd-ed-skiena-2-e58710302.html)
+7. [Hacker's Delight(2nd Edition)](https://www.pdfdrive.com/hackers-delight-e100228346.html)
 
 ###操作系统
 
